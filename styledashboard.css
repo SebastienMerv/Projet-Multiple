@@ -1,0 +1,11 @@
+.todo {
+    position: absolute;
+    left: 100px;
+    top: 200px;
+  }
+  
+.notes {
+  position: absolute;
+  left: 300px;
+  top: 100px;
+}
